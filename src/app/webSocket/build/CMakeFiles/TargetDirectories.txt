@@ -1,7 +1,0 @@
-/home/httpd/src/app/webSocket/build/CMakeFiles/install.dir
-/home/httpd/src/app/webSocket/build/CMakeFiles/list_install_components.dir
-/home/httpd/src/app/webSocket/build/CMakeFiles/rebuild_cache.dir
-/home/httpd/src/app/webSocket/build/CMakeFiles/websocket.dir
-/home/httpd/src/app/webSocket/build/CMakeFiles/install/strip.dir
-/home/httpd/src/app/webSocket/build/CMakeFiles/install/local.dir
-/home/httpd/src/app/webSocket/build/CMakeFiles/edit_cache.dir

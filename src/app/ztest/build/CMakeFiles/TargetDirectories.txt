@@ -1,8 +1,0 @@
-/home/httpd/src/app/ztest/build/CMakeFiles/install.dir
-/home/httpd/src/app/ztest/build/CMakeFiles/list_install_components.dir
-/home/httpd/src/app/ztest/build/CMakeFiles/rebuild_cache.dir
-/home/httpd/src/app/ztest/build/CMakeFiles/edit_cache.dir
-/home/httpd/src/app/ztest/build/CMakeFiles/socket_client.dir
-/home/httpd/src/app/ztest/build/CMakeFiles/websocket_client.dir
-/home/httpd/src/app/ztest/build/CMakeFiles/install/strip.dir
-/home/httpd/src/app/ztest/build/CMakeFiles/install/local.dir

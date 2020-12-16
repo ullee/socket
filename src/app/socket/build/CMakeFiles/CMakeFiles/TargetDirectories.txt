@@ -1,7 +1,0 @@
-/home/httpd/src/app/socket/build/CMakeFiles/CMakeFiles/install.dir
-/home/httpd/src/app/socket/build/CMakeFiles/CMakeFiles/list_install_components.dir
-/home/httpd/src/app/socket/build/CMakeFiles/CMakeFiles/rebuild_cache.dir
-/home/httpd/src/app/socket/build/CMakeFiles/CMakeFiles/install/strip.dir
-/home/httpd/src/app/socket/build/CMakeFiles/CMakeFiles/install/local.dir
-/home/httpd/src/app/socket/build/CMakeFiles/CMakeFiles/socket.dir
-/home/httpd/src/app/socket/build/CMakeFiles/CMakeFiles/edit_cache.dir
