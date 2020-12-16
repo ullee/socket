@@ -1,29 +1,17 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+### Socket, WebSocket Home ###
 
-### What is this repository for? ###
+* /home/httpd
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### Socket, WebSocket Log Path ###
 
-### How do I get set up? ###
+* /home/httpd/logs
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### Socket, WebSocket Binary Path ###
 
-### Contribution guidelines ###
+* /home/httpd/bin
 
-* Writing tests
-* Code review
-* Other guidelines
+### Socket, WebSocket Config Path ###
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* /home/httpd/conf
